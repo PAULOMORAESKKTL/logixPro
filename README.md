@@ -47,7 +47,7 @@ Este é um projeto desenvolvido em linguagem Ladder para simular e controlar o f
 
 ## 📞 Contato
 
-Se tiver dúvidas ou sugestões, entre em contato comigo por e-mail: **[SeuEmail@example.com]**.
+Se tiver dúvidas ou sugestões, entre em contato comigo por e-mail: plindo_morais@hotmail.com.
 
 ---
 
